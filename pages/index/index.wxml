@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <text class="title">Robo Adventures</text>
+  <button type="default">Press me</button>
+  <image class="logo" src="../images/kappabot_dance.gif"></image>
+</view>

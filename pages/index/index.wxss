@@ -1,0 +1,32 @@
+/**index.wxss**/
+page {
+  background-image: url('https://tse3.mm.bing.net/th?id=OIP.afCZM7drRQeDqfizTUyVAQHaNK&pid=Api');
+  background-size: cover;
+}
+
+.title {
+  margin-bottom: 30rpx;
+  font-family: Super Mario;
+  font-size: 100rpx;
+  text-align: center;
+  background: -webkit-linear-gradient(#FF5F6D, #FFC371);
+}
+
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 200rpx 0rpx;
+  box-sizing: border-box;
+}
+
+.logo {
+  width: 680rpx;
+  height: 400rpx;
+  padding-top: 200rpx;
+  background-color: white;
+  border-radius: 50rpx;
+  margin-top: 200rpx;
+}
